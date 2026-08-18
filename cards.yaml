@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "welcome to pravin swain cards microservices local apis"
+  contactInfo:
+    name: "pravin swain"
+    email: "pravin@69gmail.com"
+  onCallSupport:
+    - 999888777
+    - 999777888

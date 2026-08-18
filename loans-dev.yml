@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "welcome to pravin swain loans-dev microservices local apis"
+  contactInfo:
+    name: "Samita Ray-QA lead"
+    email: "samita@69gmail.com"
+  onCallSupport:
+    -666888777
+    -999666888

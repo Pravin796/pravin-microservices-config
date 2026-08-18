@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "welcome to pravin swain cards-prod microservices local apis"
+  contactInfo:
+    name: "Sadie snink -Product Owner"
+    email: "sadie@69gmail.com"
+  onCallSupport:
+    -143143143
+    -341341341
