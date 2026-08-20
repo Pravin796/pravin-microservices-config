@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "welcome to pravin swain accounts-dev microservices local apis"
+  message: "welcome to pravin swain accounts-dev microservices prod apis"
   contactInfo:
     name: "Samita Ray-QA lead"
     email: "samita@69gmail.com"
